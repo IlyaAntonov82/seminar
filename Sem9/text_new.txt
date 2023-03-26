@@ -1,0 +1,3 @@
+Ilya;89630912622;student
+Cloud;8999;friend
+Clara;8963;girl
